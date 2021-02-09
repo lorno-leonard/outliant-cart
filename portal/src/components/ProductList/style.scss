@@ -1,0 +1,15 @@
+.products-table {
+  &__td-img {
+    width: 150px;
+    text-align: center;
+
+    img {
+      max-width: 100px;
+    }
+  }
+
+  &__td-price {
+    width: 100px;
+    text-align: right;
+  }
+}
